@@ -1,6 +1,6 @@
 First-Repository
 pyramid Star Pattern Code:
-<br>
+
 
 #include<iostream>
 using namespace std;
